@@ -1,0 +1,4 @@
+Enough training data that feature roads with substantial tree should be fed to algorithm, that ways it learns to handle such scenario.
+multiple classes for vegetaion such as shrub should be created, to enhance the learning and adaptation of the algorithm to trees.
+The possibility of creating a mask with the NIR band to get rid of the trees may exist.
+manual annotation on images such as trees, where they appear on roads, could boost the quality of occluded feauture example prediction.
